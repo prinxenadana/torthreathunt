@@ -104,9 +104,9 @@ DeviceNetworkEvents
 ### 1. File Download - TOR Installer
 
 - **Timestamp:** `2025-03-08T17:31:11.9176123Z`
-- **Event:** The user "employee" downloaded a file named `tor-browser-windows-x86_64-portable-14.0.7.exe` to the Downloads folder.
+- **Event:** The user "prince" downloaded a file named `tor-browser-windows-x86_64-portable-14.0.7.exe` to the Downloads folder.
 - **Action:** File download detected.
-- **File Path:** `C:\Users\employee\Downloads\tor-browser-windows-x86_64-portable-14.0.1.exe`
+- **File Path:** `C:\Users\prince\Downloads\tor-browser-windows-x86_64-portable-14.0.7.exe`
 
 ### 2. Process Execution - TOR Browser Installation
 
@@ -126,7 +126,7 @@ DeviceNetworkEvents
 ### 4. Network Connection - TOR Network
 
 - **Timestamp:** `2025-03-08T17:31:11.9176123Z`
-- **Event:** A network connection to IP `176.198.159.33` on port `9001` by user "employee" was established using `tor.exe`, confirming TOR browser network activity.
+- **Event:** A network connection to IP `62.112.9.92` on port `9001` by user "employee" was established using `tor.exe`, confirming TOR browser network activity.
 - **Action:** Connection success.
 - **Process:** `tor.exe`
 - **File Path:** `c:\users\prince\desktop\tor browser\browser\torbrowser\tor\tor.exe`
@@ -134,7 +134,7 @@ DeviceNetworkEvents
 ### 5. Additional Network Connections - TOR Browser Activity
 
 - **Timestamps:**
-  - `2025-03-08T17:29:11.9176123Z` - Connected to `194.164.169.85` on port `443`.
+  - `2025-03-08T17:29:11.9176123Z` - Connected to `62.112.9.92` on port `443`.
   - `2025-03-08T17:29:11.9176123Z` - Local connection to `127.0.0.1` on port `9150`.
 - **Event:** Additional TOR network connections were established, indicating ongoing activity by user "prince" through the TOR browser.
 - **Action:** Multiple successful connections detected.
