@@ -94,4 +94,4 @@ DeviceFileEvents
 ## Revision History:
 | **Version** | **Changes**                   | **Date**         | **Modified By**   |
 |-------------|-------------------------------|------------------|-------------------|
-| 1.0         | Initial draft                  | `September  6, 2024`  | `Prinxe Nadana`   
+| 1.0         | Initial draft                  | `March 6, 2024`  | `Prinxe Nadana`   
