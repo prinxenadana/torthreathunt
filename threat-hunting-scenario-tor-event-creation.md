@@ -79,15 +79,7 @@ DeviceFileEvents
 - **Author Contact**: https://www.linkedin.com/in/prabhjot-singh-032186294/
 - **Date**: March 6, 2025
 
-## Validated By:
-- **Reviewer Name**: 
-- **Reviewer Contact**: 
-- **Validation Date**: 
 
----
-
-## Additional Notes:
-- **None**
 
 ---
 
